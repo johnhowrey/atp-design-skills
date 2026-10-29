@@ -1,6 +1,6 @@
 ---
 name: accessibility-review
-description: Use when asked to check accessibility, WCAG compliance, contrast, color blindness, touch target size, or whether a design, page or Figma frame is accessible. Uses exact contrast maths and a markup audit and says what still needs a human check.
+description: "Use when asked to check accessibility, WCAG compliance, contrast, color blindness, touch target size, or whether a design, page or Figma frame is accessible. Uses exact contrast maths and a markup audit and says what still needs a human check."
 ---
 
 # Accessibility review

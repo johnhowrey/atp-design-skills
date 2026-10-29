@@ -1,6 +1,6 @@
 ---
 name: design-system-audit
-description: Use when asked to audit a design system, review design tokens, check token naming or color tokens for contrast, find duplicates or drift, or plan system improvements.
+description: "Use when asked to audit a design system, review design tokens, check token naming or color tokens for contrast, find duplicates or drift, or plan system improvements."
 ---
 
 # Design system and token audit

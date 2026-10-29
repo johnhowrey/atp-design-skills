@@ -1,6 +1,6 @@
 ---
 name: design-md
-description: Use when asked to create, write or review a DESIGN.md, design context file, brand or style guide for AI to follow, or to capture a product's look and voice so models stop producing generic output.
+description: "Use when asked to create, write or review a DESIGN.md, design context file, brand or style guide for AI to follow, or to capture a product's look and voice so models stop producing generic output."
 ---
 
 # DESIGN.md generator and checker

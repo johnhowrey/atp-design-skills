@@ -1,0 +1,11 @@
+{
+  "name": "atp-design-skills",
+  "version": "1.1.0",
+  "description": "14 free design skills (critique, accessibility, heuristics, UX writing, research, tracking, handoff, design systems) plus the Designers MCP server: exact contrast, page audits and slop checks.",
+  "mcpServers": {
+    "designers": {
+      "httpUrl": "https://designers.allthepossibles.com/mcp",
+      "timeout": 600000
+    }
+  }
+}

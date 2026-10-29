@@ -21,9 +21,19 @@ Claude Code (skills and server together):
 /plugin install atp-designers@atp-plugins
 ```
 
+Gemini CLI (this repository is also a Gemini CLI extension: the skills plus the server in one step):
+
+```
+gemini extensions install https://github.com/johnhowrey/atp-design-skills
+```
+
+Or just the skills, without the server: `gemini skills install https://github.com/johnhowrey/atp-design-skills --path skills/design-critique` (one per skill), or clone the repository and symlink `skills/` to `.agents/skills` in your project or `~/.agents/skills`.
+
+GitHub Copilot (CLI, VS Code agent mode, the cloud agent and code review) reads the same folders from `.agents/skills`, `.github/skills` or `.claude/skills` in a project, or `~/.copilot/skills` and `~/.agents/skills` for every project. Clone the repository and copy or symlink `skills/` to one of those; `copilot skill list` shows them. Verified with Copilot CLI on 2026-10-29.
+
 Other agents that read SKILL.md folders: copy the folders you want from `skills/` into your skills directory.
 
-Connect the server (optional, free): `https://designers.allthepossibles.com/mcp` . Steps for Claude Desktop, claude.ai, Cursor, VS Code, Codex and ChatGPT: https://designers.allthepossibles.com/docs/install
+Connect the server (optional, free): `https://designers.allthepossibles.com/mcp` . Steps for Claude Desktop, claude.ai, Cursor, VS Code, Codex, ChatGPT, Gemini CLI, Antigravity, Gemini Code Assist and GitHub Copilot: https://designers.allthepossibles.com/docs/install
 
 ## First win
 

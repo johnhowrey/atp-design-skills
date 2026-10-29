@@ -1,6 +1,6 @@
 ---
 name: design-critique
-description: Use when asked to critique, review, give feedback on or evaluate a design, mockup, screen or Figma frame, or to compare two design options. Frames the critique by stage and gives observations with impact instead of taste.
+description: "Use when asked to critique, review, give feedback on or evaluate a design, mockup, screen or Figma frame, or to compare two design options. Frames the critique by stage and gives observations with impact instead of taste."
 ---
 
 # Design critique

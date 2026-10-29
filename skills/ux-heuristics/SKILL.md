@@ -1,6 +1,6 @@
 ---
 name: ux-heuristics
-description: Use when asked for a heuristic evaluation, usability review, UX audit or expert review of a flow, or to evaluate a design against Nielsen's ten heuristics. Walks one task and records findings with 0 to 4 severity.
+description: "Use when asked for a heuristic evaluation, usability review, UX audit or expert review of a flow, or to evaluate a design against Nielsen's ten heuristics. Walks one task and records findings with 0 to 4 severity."
 ---
 
 # Nielsen heuristic evaluation

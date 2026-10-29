@@ -1,6 +1,6 @@
 ---
 name: tracking-plan
-description: Use when asked to plan analytics, define events, write or review a tracking plan, name events and properties, or work out what to measure for a flow or product.
+description: "Use when asked to plan analytics, define events, write or review a tracking plan, name events and properties, or work out what to measure for a flow or product."
 ---
 
 # Analytics tracking plan

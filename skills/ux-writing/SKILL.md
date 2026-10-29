@@ -1,6 +1,6 @@
 ---
 name: ux-writing
-description: Use when asked to write or review interface text: buttons, error messages, empty states, tooltips, onboarding copy, confirmations or microcopy, or to remove AI-sounding language from product copy.
+description: "Use when asked to write or review interface text: buttons, error messages, empty states, tooltips, onboarding copy, confirmations or microcopy, or to remove AI-sounding language from product copy."
 ---
 
 # UX writing and microcopy

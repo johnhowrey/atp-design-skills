@@ -1,6 +1,6 @@
 ---
 name: anti-slop-design
-description: Use when a design or page looks generic or AI-generated, when asked to make it more distinctive, to check for AI design tells, or when briefing a model to build UI without the default look.
+description: "Use when a design or page looks generic or AI-generated, when asked to make it more distinctive, to check for AI design tells, or when briefing a model to build UI without the default look."
 ---
 
 # Anti-slop design review

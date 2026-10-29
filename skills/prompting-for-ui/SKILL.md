@@ -1,6 +1,6 @@
 ---
 name: prompting-for-ui
-description: Use when asked to write a design brief or prompt for a UI generator or coding agent (Figma Make, v0, Stitch, Lovable, Claude), or to get a model to design something without the generic template look.
+description: "Use when asked to write a design brief or prompt for a UI generator or coding agent (Figma Make, v0, Stitch, Lovable, Claude), or to get a model to design something without the generic template look."
 ---
 
 # Prompting for UI generation

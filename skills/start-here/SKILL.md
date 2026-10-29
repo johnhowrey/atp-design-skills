@@ -1,13 +1,13 @@
 ---
 name: start-here
-description: Use when someone asks what these design skills or the Designers server can do, says they are new or confused, or asks for help with design but does not say which kind. Asks what they have and routes them to the right skill, prompt or tool.
+description: "Use when someone asks what these design skills or the Designers server can do, says they are new or confused, or asks for help with design but does not say which kind. Asks what they have and routes them to the right skill, prompt or tool."
 ---
 
 # Start here: find the right design skill
 
 Connect the Designers server once and every skill here can do exact checks (colour contrast maths, page accessibility audits, slop signals, lint for feedback, research questions and tracking plans). The skills still work without it, by reasoning, but the numbers will not be machine-verified.
 
-To connect: the address is https://designers.allthepossibles.com/mcp. In Claude Code run: claude mcp add --transport http designers https://designers.allthepossibles.com/mcp . For Claude Desktop, claude.ai, Cursor, VS Code, Codex and ChatGPT see https://designers.allthepossibles.com/docs/install . If something does not work, call the doctor tool or read https://designers.allthepossibles.com/docs/troubleshooting .
+To connect: the address is https://designers.allthepossibles.com/mcp. In Claude Code run: claude mcp add --transport http designers https://designers.allthepossibles.com/mcp . In Gemini CLI: gemini mcp add --transport http designers https://designers.allthepossibles.com/mcp . In Copilot CLI: copilot mcp add --transport http designers https://designers.allthepossibles.com/mcp . For Claude Desktop, claude.ai, Cursor, VS Code, Codex, ChatGPT, Antigravity, Gemini Code Assist and the Copilot coding agent see https://designers.allthepossibles.com/docs/install . If something does not work, call the doctor tool or read https://designers.allthepossibles.com/docs/troubleshooting .
 
 Plain-language terms for newcomers: an MCP server is an add-on that gives the assistant extra abilities and is connected with one web address; a tool is one ability (check this colour pair); a prompt is a saved set of expert instructions; a skill is a folder of expert instructions the assistant loads by itself when a request matches.
 

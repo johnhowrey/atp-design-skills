@@ -1,6 +1,6 @@
 ---
 name: user-research-plan
-description: Use when asked to plan user research, write an interview guide, survey or usability test, check research questions for bias, choose a research method, work out a sample size or SUS score, or synthesise feedback into themes.
+description: "Use when asked to plan user research, write an interview guide, survey or usability test, check research questions for bias, choose a research method, work out a sample size or SUS score, or synthesise feedback into themes."
 ---
 
 # User research plan and synthesis

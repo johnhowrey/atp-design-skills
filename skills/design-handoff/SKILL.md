@@ -1,6 +1,6 @@
 ---
 name: design-handoff
-description: Use when asked to prepare a design handoff, write a spec for engineers, document states and behavior, or check a build against the design.
+description: "Use when asked to prepare a design handoff, write a spec for engineers, document states and behavior, or check a build against the design."
 ---
 
 # Design handoff and QA

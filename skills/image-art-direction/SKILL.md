@@ -1,6 +1,6 @@
 ---
 name: image-art-direction
-description: Use when asked to write prompts or a style guide for AI-generated images, brief a set of images that look coherent, or avoid the stock illustration look.
+description: "Use when asked to write prompts or a style guide for AI-generated images, brief a set of images that look coherent, or avoid the stock illustration look."
 ---
 
 # Art direction for AI images

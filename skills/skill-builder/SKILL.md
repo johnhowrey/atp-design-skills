@@ -1,6 +1,6 @@
 ---
 name: skill-builder
-description: Use when someone wants their AI assistant to follow their design system, naming, component names, state order, tokens, brand voice or house rules every time, asks how to write a skill or SKILL.md, or says the assistant keeps getting the same thing wrong. Interviews them and writes an Agent Skill with test prompts and install steps.
+description: "Use when someone wants their AI assistant to follow their design system, naming, component names, state order, tokens, brand voice or house rules every time, asks how to write a skill or SKILL.md, or says the assistant keeps getting the same thing wrong. Interviews them and writes an Agent Skill with test prompts and install steps."
 ---
 
 # Build a skill so your AI follows your rules
