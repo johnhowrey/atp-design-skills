@@ -18,15 +18,15 @@ Copy everything below the line, delete the guidance in brackets, and fill in rea
 - Sounds like: "[example line]"
 - Never sounds like: "[example line]"
 
-## Colour
-[Hex values with roles, one dominant colour, one accent, neutrals. Name the text and background pairs and check them with check_contrast.]
+## Color
+[Hex values with roles, one dominant color, one accent, neutrals. Name the text and background pairs and check them with check_contrast.]
 - Background (page): #[hex]
 - Surface (card): #[hex]
 - Text (primary): #[hex]
 - Text (muted): #[hex], used only at 18px and above or where contrast has been checked
 - Accent: #[hex], used for the single primary action on a screen
 - Danger: #[hex]
-Never: gradients, a second accent, colour as the only signal.
+Never: gradients, a second accent, color as the only signal.
 
 ## Typography
 [Real typefaces with fallbacks, a scale, and what each is for.]
@@ -44,7 +44,7 @@ Never: gradients, a second accent, colour as the only signal.
 ## Components
 [Only the ones that need a rule. Each with states.]
 - Button: one primary per screen, [height]px tall, sentence case verb labels, states: default, hover, focus (2px outline in accent, 3:1), disabled, loading.
-- Form fields: labels above, errors below in danger colour with an icon and text, never colour alone.
+- Form fields: labels above, errors below in danger color with an icon and text, never color alone.
 
 ## Imagery and motion
 - Imagery: [photography with a specific direction, or illustration style]; never stock people at laptops.

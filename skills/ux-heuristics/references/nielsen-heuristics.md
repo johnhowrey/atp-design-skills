@@ -36,11 +36,11 @@ Judge severity on three things together: how often it happens, how hard it is to
 
 **9. Help users recognize, diagnose, and recover from errors.** Messages in plain language, name the problem, suggest the fix. Look for: "Something went wrong", raw codes, "Invalid input" with no field named, errors that clear the form, messages that blame the person, errors shown far from the field.
 
-**10. Help and documentation.** Best if not needed; when needed, findable, task-focused and short. Look for: help that opens away from the task, docs organised by feature and not by goal, no contact route at the moment of failure, tooltips that restate the label.
+**10. Help and documentation.** Best if not needed; when needed, findable, task-focused and short. Look for: help that opens away from the task, docs organized by feature and not by goal, no contact route at the moment of failure, tooltips that restate the label.
 
 ## Common mistakes in running an evaluation
 - Reviewing screens, not tasks. Problems live in the transitions.
 - Calling everything a violation. Tag only what would plausibly hurt a real person in the task.
-- Using heuristics as a verdict on taste. Typography and colour opinions are not heuristic findings unless they hurt legibility, hierarchy or consistency.
+- Using heuristics as a verdict on taste. Typography and color opinions are not heuristic findings unless they hurt legibility, hierarchy or consistency.
 - Skipping the positive. Record what works so it survives the redesign.
 - Treating the evaluation as a substitute for watching people use it. It finds likely problems cheaply and early; usability testing finds the ones you did not predict.

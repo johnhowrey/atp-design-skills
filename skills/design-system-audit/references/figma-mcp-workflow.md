@@ -7,11 +7,11 @@ When the person gives you a Figma link, read the design before you judge it. The
 2. get_metadata for the structure: frames, names, sizes. Use it to find the frames for the flow, in order.
 3. get_screenshot for each frame you will judge. Look at the picture first; most problems are visible.
 4. get_design_context for the frame to get layout, text and token usage. Treat its code as a reference to read, not output to ship.
-5. get_variable_defs when you audit tokens or contrast: it returns the variables (colours, spacing, type) in use.
+5. get_variable_defs when you audit tokens or contrast: it returns the variables (colors, spacing, type) in use.
 
 ## Step 2: hand exact values to the checkers
-- Colour pairs: take text fill and the background it sits on from get_design_context or get_variable_defs, then call check_contrast with sizePx and bold from the text style. Do not estimate contrast by eye; models get it wrong.
-- Palette: pass the colour variables to check_contrast as a palette to find colours that merge under colour blindness.
+- Color pairs: take text fill and the background it sits on from get_design_context or get_variable_defs, then call check_contrast with sizePx and bold from the text style. Do not estimate contrast by eye; models get it wrong.
+- Palette: pass the color variables to check_contrast as a palette to find colors that merge under color blindness.
 - Copy: collect every text layer, one per line with its role (button:, error:, empty:, tooltip:), and call review_ui_copy.
 - Heuristics: describe the flow in order, with the copy on each frame, and call heuristic_worksheet with the task; do the evaluation yourself using the worksheet and the Nielsen resource.
 - Live site next to the design: call audit_page_accessibility and detect_design_slop on the URL.

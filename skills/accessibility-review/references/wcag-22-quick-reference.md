@@ -9,7 +9,7 @@ Level A and AA are the usual legal and contractual target; AAA is rarely require
 - **1.3.2 Meaningful Sequence (A).** Reading order in the source matches the visual order. Check by tabbing and with CSS off.
 - **1.3.4 Orientation (AA).** Do not lock to portrait or landscape unless essential.
 - **1.3.5 Identify Input Purpose (AA).** autocomplete tokens on personal-data fields (name, email, tel, address-line1, cc-number).
-- **1.4.1 Use of Color (A).** Colour is never the only cue (error red alone, link colour alone). Add text, icon, underline or pattern.
+- **1.4.1 Use of Color (A).** Color is never the only cue (error red alone, link color alone). Add text, icon, underline or pattern.
 - **1.4.3 Contrast (Minimum) (AA).** 4.5:1 for normal text, 3:1 for large (24px, or 18.66px bold). Check: check_contrast. Placeholder text and disabled text are the usual failures people forget; disabled controls are exempt, placeholders are not.
 - **1.4.4 Resize Text (AA).** Text scales to 200% without loss. Do not block zoom in the viewport tag.
 - **1.4.5 Images of Text (AA).** Use real text.
@@ -33,7 +33,7 @@ Level A and AA are the usual legal and contractual target; AAA is rarely require
 - **2.4.7 Focus Visible (AA).** A visible keyboard focus indicator. Never outline: none without a replacement.
 - **2.4.11 Focus Not Obscured (Minimum) (AA, new).** The focused element is not entirely hidden by sticky headers, cookie banners or chat widgets.
 - **2.5.1 Pointer Gestures (A).** Multipoint and path gestures (pinch, drag along a path) have a single-pointer alternative.
-- **2.5.2 Pointer Cancellation (A).** Actions fire on the up event, so a slipped press can be cancelled.
+- **2.5.2 Pointer Cancellation (A).** Actions fire on the up event, so a slipped press can be canceled.
 - **2.5.3 Label in Name (A).** The accessible name contains the visible label text (voice control users say what they see).
 - **2.5.7 Dragging Movements (AA, new).** Anything done by dragging can be done with a click or tap alternative (sortable lists need move up and move down).
 - **2.5.8 Target Size (Minimum) (AA, new).** Targets at least 24 by 24 CSS px, or spaced so a 24px circle on each does not overlap another. Inline links in text are exempt. For touch design aim for 44px.

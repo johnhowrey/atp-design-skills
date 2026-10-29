@@ -1,6 +1,6 @@
 # Choosing a research method
 
-Pick the method from the question you must answer, not from habit. Two axes help: attitudinal (what people say) versus behavioural (what they do), and qualitative (why, how) versus quantitative (how many, how much).
+Pick the method from the question you must answer, not from habit. Two axes help: attitudinal (what people say) versus behavioral (what they do), and qualitative (why, how) versus quantitative (how many, how much).
 
 ## By question
 - "What problem do these people have, and how do they cope now?" Generative interviews or field visits. 5 to 8 participants per segment; you stop when answers repeat. Analytics cannot answer this.
@@ -14,7 +14,7 @@ Pick the method from the question you must answer, not from habit. Two axes help
 - "What happens over weeks?" A diary study or longitudinal interviews.
 
 ## Recruiting
-Recruit for behaviour, not demographics ("bought a flight in the last 3 months", not "age 25 to 34"). Include people who struggle: older users, assistive technology users, low bandwidth. Screen out people who work in design or research and your competitors. Pay fairly. Record with consent and say how data is stored.
+Recruit for behavior, not demographics ("bought a flight in the last 3 months", not "age 25 to 34"). Include people who struggle: older users, assistive technology users, low bandwidth. Screen out people who work in design or research and your competitors. Pay fairly. Record with consent and say how data is stored.
 
 ## Plan template
 Objective (the decision this will inform), questions, method and why, participants (who, how many, how recruited), tasks or script, materials, timeline, how findings will be used and who decides, and what would change the plan.

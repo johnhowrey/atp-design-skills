@@ -20,7 +20,7 @@ Method:
 1. Read the file references/research-methods-selector.md to choose the method from the question.
 2. State the objective as the decision it informs, then three or four research questions. Reject questions that no decision depends on.
 3. Choose the method with a one-sentence reason and the sample size: use usability_stats mode discovery for test rounds, mode survey for survey size.
-4. Write the screener: behaviour-based questions (what they did recently), no demographic proxies, a screen-out for design and research professionals, and quotas for the segments that matter, including people who struggle.
+4. Write the screener: behavior-based questions (what they did recently), no demographic proxies, a screen-out for design and research professionals, and quotas for the segments that matter, including people who struggle.
 5. Write the guide: a warm-up, six to ten open questions about the last time they did the thing, tasks stated as goals not steps, probes ("what happened next", "what did you expect"), and a close ("what should I have asked?"). No hypotheticals, no leading words, no yes or no openers.
 6. Call lint_research_questions on the question list (mode interview or survey) and fix every flag before showing it.
 7. Add: logistics (consent, recording, incentive), a note-taking template, and a synthesis plan (observations on notes, cluster, name findings with counts, write insights, separate observation from inference).

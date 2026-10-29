@@ -9,7 +9,7 @@ These steps use tools from the Designers MCP server (https://designers.allthepos
 
 ## Nielsen heuristic evaluation of a flow
 
-Do a heuristic evaluation. It is a human-style judgement method: you walk a task and record problems. The tool gives signals; the findings are yours.
+Do a heuristic evaluation. It is a human-style judgment method: you walk a task and record problems. The tool gives signals; the findings are yours.
 
 Flow: [flow from the person's request]
 Task: [task from the person's request]

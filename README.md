@@ -1,6 +1,6 @@
 # Design skills for working with AI
 
-Thirteen free skills that teach an AI assistant to do design work properly: critique, accessibility review, Nielsen heuristic evaluation, anti-slop design review, UX writing, research planning, tracking plans, handoff, design system and token audits, prompting for UI, a DESIGN.md generator, and art direction for images.
+Fourteen free skills that teach an AI assistant to do design work properly: critique, accessibility review, Nielsen heuristic evaluation, anti-slop design review, UX writing, research planning, tracking plans, handoff, design system and token audits, prompting for UI, a DESIGN.md generator, art direction for images, and a skill builder that makes the assistant follow your own rules.
 
 Made by [All the Possibles](https://allthepossibles.com). Docs and the server: https://designers.allthepossibles.com/docs/start
 
@@ -43,6 +43,7 @@ Ask your assistant: "Check the contrast of #8a8a8a text on a white background at
 - **design-system-audit**: Design system and token audit
 - **prompting-for-ui**: Prompting for UI generation
 - **design-md**: DESIGN.md generator and checker
+- **skill-builder**: Build a skill so your AI follows your rules
 - **image-art-direction**: Art direction for AI images
 
 ## Troubleshooting

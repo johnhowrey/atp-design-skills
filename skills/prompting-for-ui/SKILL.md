@@ -20,17 +20,17 @@ Read the file references/slop-tells.md first. A model told "clean and modern" pr
 
 Produce the brief in these sections:
 1. Purpose and person: who, what they are trying to do, in what state of mind. One paragraph.
-2. Point of view: three words for the feel and two things it must not feel like. Name real references and the specific thing taken from each (a grid, a scale of type, a way of using colour), not "inspired by".
+2. Point of view: three words for the feel and two things it must not feel like. Name real references and the specific thing taken from each (a grid, a scale of type, a way of using color), not "inspired by".
 3. Type: one display face with character, one text face built for reading, one for UI if needed; sizes on a scale with a big jump between headline and body; weights. Name real typefaces and fallbacks.
-4. Colour: one dominant colour, one sharp accent, neutrals. Give hex values and the contrast of each text and background pair; call check_contrast to verify rather than asserting. No gradients unless one is asked for.
-5. Layout: where the grid is broken on purpose (offset columns, one oversized element, uneven sizes), and how it collapses on a phone. Forbid the centred hero then three equal cards.
+4. Color: one dominant color, one sharp accent, neutrals. Give hex values and the contrast of each text and background pair; call check_contrast to verify rather than asserting. No gradients unless one is asked for.
+5. Layout: where the grid is broken on purpose (offset columns, one oversized element, uneven sizes), and how it collapses on a phone. Forbid the centered hero then three equal cards.
 6. Content: the real copy, or the real data shapes. Never lorem ipsum. Give actual lengths, including the longest name and the empty state.
 7. Components and states: only what the screen needs, with default, focus, error, empty and loading.
-8. Motion: one or two moves with a purpose, under 300ms, honouring reduced motion.
+8. Motion: one or two moves with a purpose, under 300ms, honoring reduced motion.
 9. Hard constraints: WCAG 2.2 AA, 44px touch targets, no emoji or eyebrows or glow blobs, text a person would actually say.
-10. Acceptance checks the result must pass: run detect_design_slop on the built page, check_contrast on the final colours, review_ui_copy on the strings, audit_page_accessibility on the markup.
+10. Acceptance checks the result must pass: run detect_design_slop on the built page, check_contrast on the final colors, review_ui_copy on the strings, audit_page_accessibility on the markup.
 Keep the brief under 600 words. A short brief with real decisions beats a long one with adjectives.
-Adapt it to the generator named above: tools that take a short prompt (Figma Make, v0, Lovable, Stitch) want the point of view, type, colour and the never-list in the first paragraph, one screen at a time, with real copy pasted in; Claude and other coding agents can take the full brief and a DESIGN.md. Say which version you are giving.
+Adapt it to the generator named above: tools that take a short prompt (Figma Make, v0, Lovable, Stitch) want the point of view, type, color and the never-list in the first paragraph, one screen at a time, with real copy pasted in; Claude and other coding agents can take the full brief and a DESIGN.md. Say which version you are giving.
 
 ## Tools used
 
